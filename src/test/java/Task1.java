@@ -21,6 +21,8 @@ public class Task1 {
             // Output the result
             System.out.println("The result of the expression is: " + x);
 
+            scanner.close();
+
         }
     }
 }

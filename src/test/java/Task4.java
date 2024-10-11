@@ -18,5 +18,7 @@ public class Task4 {
 
         System.out.println("ევროში მიღებული თანხა: " + eurReceived);
 
+        scanner.close();
+
     }
 }

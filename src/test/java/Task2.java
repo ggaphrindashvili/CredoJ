@@ -21,5 +21,7 @@ public class Task2 {
         System.out.println("კონუსსის ზედაპირის ფართობი: " + surfaceArea);
         System.out.println("კონუსის მოცულობა: " + volume);
 
+        scanner.close();
+
     }
 }

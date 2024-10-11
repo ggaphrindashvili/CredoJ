@@ -39,5 +39,7 @@ public class Task3 {
         }
         System.out.println("შედეგი: " + result);
 
+        scanner.close();
+
     }
 }
